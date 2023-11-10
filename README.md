@@ -52,35 +52,30 @@
 
 
 ## Ceritifcates 
-<table align="left"><tr><td valign="top" width="50%">
-
+<br>
 <p>
   <a href="https://www.datacamp.com/completed/statement-of-accomplishment/course/d329c650dd9fbb7d63197032fd28d17757a8ab67">Understanding Data Engineering</a>
   <br>
-  " Data Camp "
+  Data Camp 
   <br>
-  " May 3 2022 "
-
-
-
+  May 3 2022 
 </p>
-
-</td></tr></table>  
-
-
+<br/>  
+<p>
+  <a href="https://www.datacamp.com/completed/statement-of-accomplishment/course/d329c650dd9fbb7d63197032fd28d17757a8ab67">Understanding Data Engineering</a>
+  <br>
+  Data Camp 
+  <br>
+  May 3 2022 
+</p>
+<br/> 
+<p>
+  <a href="https://www.datacamp.com/completed/statement-of-accomplishment/course/d329c650dd9fbb7d63197032fd28d17757a8ab67">Understanding Data Engineering</a>
+  <br>
+  Data Camp 
+  <br>
+  May 3 2022 
+</p>
 <br/>  
 
   
-
-<br/>  
-
-  
-
-<br/>  
-
-  
-
-<br/>  
-
-
-<br />
