@@ -51,7 +51,6 @@
 <br/>  
 
 ## Ceritifcates 
-<br>
 <p>
   <a href="https://catalog-education.oracle.com/pls/certview/sharebadge?id=596182ABF9775B0CE938E942B54693141DC11783AEBB82E8389783A014EF11AB">Oracle Cloud Infrastructure 2023 AI Certified Foundations Associate</a>
   <br>
