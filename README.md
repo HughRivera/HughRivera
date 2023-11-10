@@ -34,7 +34,7 @@
 
 
 ## Education 
-<table align="center"><tr><td valign="top" width="50%">
+
 
 - Information Communication Technology                     | Asian Institute of Computer Studies
 
@@ -46,7 +46,7 @@
    2020 - Present  
 
 
-</td></tr></table>  
+
 
 <br/>  
 
