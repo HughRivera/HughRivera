@@ -53,6 +53,14 @@
 ## Ceritifcates 
 <br>
 <p>
+  <a href="https://catalog-education.oracle.com/pls/certview/sharebadge?id=596182ABF9775B0CE938E942B54693141DC11783AEBB82E8389783A014EF11AB">Oracle Cloud Infrastructure 2023 AI Certified Foundations Associate</a>
+  <br>
+  Oracle University
+  <br>
+  Nov 10 2023
+</p>
+<br/> 
+<p>
   <a href="https://www.datacamp.com/completed/statement-of-accomplishment/course/d329c650dd9fbb7d63197032fd28d17757a8ab67">Understanding Data Engineering</a>
   <br>
   Data Camp 
