@@ -11,7 +11,7 @@
 </div>  
   
 
-##### <div align="center">Graduating Information Technology Student studying at New Era University</div>  
+##### <h3 align="center">Graduating Information Technology Student studying at New Era University</h3>  
   
 <br>
 
